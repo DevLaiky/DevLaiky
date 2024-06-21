@@ -25,6 +25,7 @@ Here are some of the technologies and tools I work with:
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=c-sharp)
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
+![Figma](https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png)
 
 
 ## 📚 Education
