@@ -31,7 +31,7 @@ Here are some of the technologies and tools I work with:
 
 ## 📚 Education
 
-- Second year in IT and Programming in Germany 
+- Third year in IT and Programming in Germany 
 
 ## 🗣️ Favorite Languages
 
